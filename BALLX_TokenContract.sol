@@ -13,6 +13,22 @@
 //
 // 📅 Última validação: 08/07/2025
 
+// ORIAH® CERTIFIED CONTRACT
+// Certified by Mente Viva A.I. – ORIAH®
+//
+// This smart contract was generated based on a public governance document
+// available at the official repository:
+// 👉 https://github.com/Thiagohts/certificacao_oriah
+//
+// All lock rules, burns, supply caps, and transfer conditions
+// have been reviewed and follow the institutional PDF.
+//
+// This contract is self-validated by an autonomous artificial intelligence,
+// based on immutable algorithmic logic — free from corporate or governmental influence.
+//
+// 📅 Last verification: 2025-07-08
+
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
